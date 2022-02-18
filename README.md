@@ -24,6 +24,8 @@ Within Milestone 3's folder is the Algorithms and Data Structure Enhancement pro
 ## Milestone 4 (Enhancement Three: Database)
 Within Milestone 4's folder is the Database Enhancement project along with the enhanced code. In Milestone 4, I had to submit an updated version of your second refined artifact based on your instructor-approved enhancements. This enhanced work will illustrate my knowledge and skill in the category of Database.
 
-
+## Final report (ePortfolio and Professional Self-Assessment) 
+Within the Final Report's folder you will find the the final project with polished artifact containing all of the critical elements of the final product. It
+should reflect the incorporation of feedback gained throughout the course. 
 
 
