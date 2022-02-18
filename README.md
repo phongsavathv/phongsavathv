@@ -11,6 +11,7 @@ My final project consist of  4 milestones and this e-portfolio.
 2. Milestone - 2 Enhancement One: Software Design/Engineering
 3. Milestone - 3 Enhancement Two: Algorithms and Data Structure
 4. Milestone - 4 Enhancement Three: Databases
+5. Final report (ePortfolio and Professional Self-Assessment)
 
 ## Milestone 1 (Code Review)
 Within Milestone 1's folder you will find the code review in video. In Milestone 1, I will thoroughly review the code that relates to various computer science categories. You will then talk about the code's weaknesses and how to improve its efficiency. While it's important to exhibit your best thinking, this exercise should be considered an informal exercise to improve the dialogue with your instructor.
