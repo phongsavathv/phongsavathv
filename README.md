@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# SNHU CS499 CAPSTONE
+## E-PORTFOLIO
 
-You can use the [editor on GitHub](https://github.com/phongsavathv/phongsavathv/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Vilaysith Phongsavath
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Final Project Overview
 
-### Markdown
+My final project consist of  4 milestones and this e-portfolio.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Milestone - 1 Code Review
+2. Milestone - 2 Enhancement One: Software Design/Engineering
+3. Milestone - 3 Enhancement Two: Algorithms and Data Structure
+4. Milestone - 4 Enhancement Three: Databases
 
-```markdown
-Syntax highlighted code block
+## Milestone 1 (Code Review)
+Within Milestone 1's folder you will find the code review in video. In Milestone 1, I will thoroughly review the code that relates to various computer science categories. You will then talk about the code's weaknesses and how to improve its efficiency. While it's important to exhibit your best thinking, this exercise should be considered an informal exercise to improve the dialogue with your instructor.
 
-# Header 1
-## Header 2
-### Header 3
+## Milestone 2 (Enhancement One: Software Design and Engineering)
+Within Milestone 2's folder is the Software Design and Engineering Enhancement project along with the original and enhanced code. In Milestone 2, I had to submit an updated version of your first refined artifact based on your instructor-approved enhancements. This enhanced work will illustrate my knowledge and skill in the category of software design/engineering.
 
-- Bulleted
-- List
+## Milestone 3 (Enhancement Two: Algorithms and Data Structure)
+Within Milestone 3's folder is the Algorithms and Data Structure Enhancement project along with the enhanced code. In Milestone 3, I had to submit an updated version of your second refined artifact based on your instructor-approved enhancements. This enhanced work will illustrate my knowledge and skill in the category of algorithms and data structure.
 
-1. Numbered
-2. List
+## Milestone 4 (Enhancement Three: Database)
+Within Milestone 4's folder is the Database Enhancement project along with the enhanced code. In Milestone 4, I had to submit an updated version of your second refined artifact based on your instructor-approved enhancements. This enhanced work will illustrate my knowledge and skill in the category of Database.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/phongsavathv/phongsavathv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
