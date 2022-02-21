@@ -55,13 +55,13 @@ This artifact helped me use one of the skills I gained over the course and that 
 I added a new portal view in the code structure so when users click on the View Pets button, it shows up another window and lets the users be able to start searching in DB.I imported java.sql to get all classes from the package java.sql at once, then, completed the connection setup by declaring the DB location and credentials to allows the code issues SQL queries to the database, I noticed that the password is not complex at all which is something I will keep in mind in a production environment for security purposes as the security mindset is one of the helpful concepts I learned over the course. Other than this, I added an insert method to insert the pets’ values into DB and to show up the message Saved Successfully once the record is inserted properly. In addition, I added a quick catch that an error has occurred when you cannot find what you are looking for, this is one of the most interesting concepts I learned in this course, I should give the user a clear error message to help identify and troubleshoot the issues easier.
 
 ###  Link to Milestone two: Original pet.java and enhancement pet.java code
-https://github.com/phongsavathv/phongsavathv/commit/b80897d7a63b87423d692d8d697cf720e22bafe9
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/phongsavathv/phongsavathv/commit/b80897d7a63b87423d692d8d697cf720e22bafe9
 
 ### Link to Milestone three:  Algorithms and Data Structures enhancement code
-https://github.com/phongsavathv/phongsavathv/commit/f5c1c060395c25f16f030d29f774cbfbd3895c98
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/phongsavathv/phongsavathv/commit/f5c1c060395c25f16f030d29f774cbfbd3895c98
 
 ### Link to Milestone four: Database enhancement code
-https://github.com/phongsavathv/phongsavathv/commit/7356341f223e8a27125ed3f49fb2b3153dd9bfa7
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/phongsavathv/phongsavathv/commit/7356341f223e8a27125ed3f49fb2b3153dd9bfa7
 
 
 
